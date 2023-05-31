@@ -66,7 +66,7 @@ function RunTransLate(lang, text) {
     return
   }
   var url =
-    libs.TranslatorURL()+"/translate?msg=" +
+    Libs.TranslatorURL()+"/translate?msg=" +
     encodeURIComponent(text) +
     "&to=" +
     lang
