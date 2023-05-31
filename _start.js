@@ -11,8 +11,8 @@ var admin = Bot.getProperty("#admin")
 
     Api.sendMessage({
       text:
-        "👋 Hi, " +
-        user.first_name +
+        "👋 Hi, " ±
+        user.first_name ±
         " I can help you to manage your bot using my command\n\n/mycommand - command list\n/edit - [command name]\n/preview - Click to preview your work.",
       reply_markup: {
         inline_keyboard: [
