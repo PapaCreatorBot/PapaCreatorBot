@@ -2,9 +2,11 @@
 
 🤖 OFFICIAL RELEASE PAPA CREATOR BOT
 
+
 🔥 Let's Make Telegram Bot Without knowledge required
 
-CREATE NOW FREE @PapaCreatorBot
+
+CREATE NOW FREE https://t.me/PapaCreatorBot
 
 ✅ Unlimited Bots
 
