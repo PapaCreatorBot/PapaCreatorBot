@@ -14,18 +14,17 @@ CREATE NOW FREE https://t.me/PapaCreatorBot
 
 ✅ With Ads-
 
-Email:
+📧 Email:
 
 papacreatorbot@gmail.com
 
-Group Chat:
+🌐 Group Chat:
 
 https://t.me/papacreator
 
-Channel:
+🌐 Channel:
 
 https://t.me/newspapacreatorbot
 
-Unofficial Channel:
-
+🌐 Unofficial Channel:
 https://t.me/PapacodeDrop
