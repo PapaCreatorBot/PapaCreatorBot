@@ -8,9 +8,9 @@ var admin = Bot.getProperty("#admin")
       command: "#creates",
       options: { url: url }
     }) 
+
 Api.sendMessage({
-      text:
-        `👋Hi, ` +
+text : `👋Hi, ` +
         user.first_name +
         ` Manage your bot using command.\n\n/mycommand - command list.\n/edit - editing command.\n/preview - click to preview your work.\n\n💎 <a href="https://github.com/PapaCreatorBot/Help/blob/main/Plan.md#what-it----iteration">Iteration</a>: ` +
         iterations.value(),
