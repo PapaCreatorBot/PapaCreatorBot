@@ -71,7 +71,6 @@ function RunTransLate(lang, text) {
     "&to=" +
     lang
   HTTP.get({
-    url: url,
-    folow_redirects: true
+    url: url
   })
 }
