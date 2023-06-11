@@ -1,3 +1,10 @@
+ //interaction
+if (1 > Libs.iterations.value()) {
+  Bot.sendMessage("Upgrade your iteration Plan.")
+  return
+}
+Libs.iterations().remove(1)
+
 //channel subscription
 function Subscribe(data) {
   Api.getChatMember({
