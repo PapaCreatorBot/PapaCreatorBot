@@ -1,6 +1,6 @@
  //interaction
 if (1 > Libs.iterations.value()) {
-  Bot.sendMessage("Upgrade your iteration Plan.")
+  Bot.sendMessage("Upgrade your iteration plan.")
   return
 }
 Libs.iterations().remove(1)
