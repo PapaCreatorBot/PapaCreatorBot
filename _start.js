@@ -1,4 +1,5 @@
 var admin = Bot.getProperty("#admin")
+
   if (admin == user.telegramid) {
     var url = Libs.Webhooks.getUrlFor({
       command: lib.commandOnWebhook(),
