@@ -16,7 +16,7 @@ text : `👋Hi, ` ±
         ` Manage your bot using command.\n\n/mycommand - command list.\n/edit - editing command.\n/preview - click to preview your work.\n\n💎 <a href="https://github.com/PapaCreatorBot/Help/blob/main/Plan.md#what-it----iteration">Iteration</a>: <b>` ±
         Libs.iterations.value() ±
         `</b>\n♻️ Next Payment in: <b>` ±
-        resets() ±
+        Libs.resets() ±
         ` Days</b>`,
       disable_web_page_preview: true,
       parse_mode: "html",
