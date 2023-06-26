@@ -1,9 +1,9 @@
  //interaction
-if (1 > Libs.iterations.value()) {
+if (1 > Libs.iterations.balance.value()) {
   Bot.sendMessage("Upgrade your iteration plan.")
   return
 }
-Libs.iterations().remove(1)
+Libs.iterations.balance().remove(1)
 
 //channel subscription
 function Subscribe(data) {
