@@ -14,9 +14,9 @@ Api.sendMessage({
 text : `👋Hi, ` ±
         user.first_name ±
         ` Manage your bot using command.\n\n/mycommand - command list.\n/edit - editing command.\n/preview - click to preview your work.\n\n💎 <a href="https://github.com/PapaCreatorBot/Help/blob/main/Plan.md#what-it----iteration">Iteration</a>: <b>` ±
-        Libs.iterations.value() ±
+        Libs.iterations.balance.value() ±
         `</b>\n♻️ Next Payment in: <b>` ±
-        Libs.resets() ±
+        Libs.interation.resets() ±
         ` Days</b>`,
       disable_web_page_preview: true,
       parse_mode: "html",
